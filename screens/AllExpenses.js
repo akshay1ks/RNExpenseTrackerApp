@@ -2,7 +2,7 @@ import { Text } from 'react-native';
 
 function AllExpenses() {
     return (
-        <Text>Manage Expenses</Text>
+        <Text>All Expenses</Text>
     );
 }
 

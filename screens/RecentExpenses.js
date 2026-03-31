@@ -1,9 +1,9 @@
 import { Text } from 'react-native';
 
-function ManageExpenses() {
+function RecentExpenses() {
     return (
-        <Text>Manage Expenses</Text>
+        <Text>Recent Expenses</Text>
     );
 }
 
-export default ManageExpenses;
+export default RecentExpenses;
